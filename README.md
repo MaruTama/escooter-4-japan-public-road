@@ -7,8 +7,8 @@
 
 # 法律
 主に３つの法律が関わる  
-- 国土交通省が所管する「道路運送車両に関する法律」「道路運送車両の保安基準に関する法律」
-- 警察庁が所管する「道路交通に関する法律」
+- 国土交通省が所管する「[道路運送車両に関する法律](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=326AC0000000185)」「[道路運送車両の保安基準に関する法律](https://www.mlit.go.jp/jidosha/jidosha_fr7_000007.html)」
+- 警察庁が所管する「[道路交通に関する法律](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=335AC0000000105)」
 
 ## 定義
 - 軽車両は原動機を持たない車両の総称
