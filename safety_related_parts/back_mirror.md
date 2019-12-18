@@ -28,8 +28,10 @@
 　　4.1.2.1 反射鏡が**円形の場合**には、**当該反射面の直径は150mm以下**であること。 <br>
 　　4.1.2.2. 反射鏡が**円形以外の場合**には、**当該反射面は、120mm×200mmの長方形に内接する** こと。 <br>
 
+[「工具の通販モノタロウ > バイク用品 > バイクの保安基準」](https://www.monotaro.com/s/pages/productinfo/bike_standard/)より引用  
 ![工具の通販モノタロウ > バイク用品 > バイクの保安基準](https://jp.images-monotaro.com/pages/productinfo/bike_standard/bike_standard01.gif)  
-![https://www.tanax.co.jp/motorcycle/safe.html](https://www.tanax.co.jp/motorcycle/images/safe/img3.png)
+[「タナックス株式会社　バックミラーの保安基準について」](https://www.tanax.co.jp/motorcycle/safe.html)より引用  
+![](https://www.tanax.co.jp/motorcycle/images/safe/img3.png)
 
 
 ### 二輪自動車等の後写鏡及び後写鏡取付装置の技術基準
