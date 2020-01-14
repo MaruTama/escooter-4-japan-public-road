@@ -33,11 +33,47 @@
 |黄|3|
 |黒|0|
 
+## 5V to 12V boost converter circuit
+
+5v to 12vで 800mA まで
+
+[【TLP592A(F)】SSR RELAY SPST-NO 500MA 0-60V](https://www.marutsu.co.jp/pc/i/226161/)
+￥ 241
+
+[【TC74HC123AP(NEW.F)】2回路 単安定マルチバイブレータ CMOS DIP16](https://www.marutsu.co.jp/pc/i/225808/)
+￥ 144
+
+[	【50PK4.7MEFC】小形アルミニウム電解コンデンサー50V 4.7μF](https://www.marutsu.co.jp/pc/i/132155/)
+￥ 20
+
+[【ZL2505-4PS】ナイロンコネクターSM(4Pメス/オスハウジング+コンタクトセット)](https://www.marutsu.co.jp/pc/i/40744/)
+￥ 58
+
+[	【RK73B2ATTD623J】2012角形チップ抵抗器 RK73B 62kΩ 0.25W ±5％](	【RK73B2ATTD623J】2012角形チップ抵抗器 RK73B 62kΩ 0.25W ±5％)
+￥ 5 ×10
+
+[【RK73B1ETTP332J】1005角形チップ抵抗器 RK73B 3.3kΩ 0.1W ±5％](【RK73B1ETTP332J】1005角形チップ抵抗器 RK73B 3.3kΩ 0.1W ±5％)
+￥ 5 ×10
+
+回路図
+- [5v to 12v, DC to DC Boost converter circuit](https://www.gadgetronicx.com/5v-12v-dc-boost-converter/)
+![](https://www.gadgetronicx.com/wp-content/uploads/2019/03/boost-converter.png)
+
+- [MT3608 datasheet](https://www.olimex.com/Products/Breadboarding/BB-PWR-3608/resources/MT3608.pdf)
+- [MT3608 copy](https://easyeda.com/brd2k7/MT3608)
+- [DCレギュレータに昇圧安定化組み込み](https://imp.webike.net/diary/170593/)
+
+販売
+- [大電流出力可変DC/DCコンバータ [M3608]](http://www.aitendo.com/product/15529)
+
+実験
+- [DC昇圧電源基板MT3608をテストする](https://netlog.jpn.org/r271-635/2018/02/mt3608-dc-stepup.html)
 
 ### 底板
 #### 底部灯
 youtube  
-8:00, 16:55
+[How to repair ninebot seway ES1 ES2 ES4](https://www.youtube.com/watch?v=bTMKUIi2EJY&t=12s)  
+拆卸底盘塑胶盖 8:00, 拆卸底部灯条总成 16:55
 
 青は制動灯。黄色は信号線。赤−黒は電源ライン。  
 
@@ -57,9 +93,17 @@ youtube
 |黒|0|
 
 
+[SSR RELAY SPST-NO 500MA 0-60V【TLP592A(F)】](https://www.marutsu.co.jp/pc/i/226161/)
+[2回路 単安定マルチバイブレータ CMOS DIP16【TC74HC123AP(NEW.F)】](https://www.marutsu.co.jp/pc/i/225808/)
+[小形アルミニウム電解コンデンサー50V 4.7μF【50PK4.7MEFC】](https://www.marutsu.co.jp/pc/i/132155/)
+[ナイロンコネクターSM(4Pメス/オスハウジング+コンタクトセット)【ZL2505-4PS】](https://www.marutsu.co.jp/pc/i/40744/)
+[2012角形チップ抵抗器 RK73B 62kΩ 0.25W ±5％【RK73B2ATTD623J】](https://www.marutsu.co.jp/pc/i/857048/)
+[1005角形チップ抵抗器 RK73B 3.3kΩ 0.1W ±5％【RK73B1ETTP332J】](https://www.marutsu.co.jp/pc/i/126977/)
+
 ## 改造箇所
 ### 方向指示器(转向灯)
 #### 前面
+0.25w
 - [摩托车LED手把转向灯车把警示边灯电动车灯12V龙头转向信号灯](https://item.taobao.com/item.htm?spm=a230r.1.14.32.59b62bd8Vwd2pf&id=572550721241&ns=1&abbucket=6#detail)  
  JPY 299  
  ![](https://img.alicdn.com/imgextra/i2/2036195367/O1CN011pW89XbO5T1ZkyL_!!2036195367.jpg)  
@@ -105,13 +149,26 @@ JPY 416
 ![](https://images-na.ssl-images-amazon.com/images/I/61DFgJPEm0L._AC_SX679_.jpg)
 
 ### 警音器(喇叭)
-- [電子太郎 オートバイ電気ホーン　防水 バイク用ホーン ラウド警告　トランペット　105dB　12V　DC　1.5A　金属　ブラック](https://www.amazon.co.jp/%E9%9B%BB%E5%AD%90%E5%A4%AA%E9%83%8E-%E3%82%AA%E3%83%BC%E3%83%88%E3%83%90%E3%82%A4%E9%9B%BB%E6%B0%97%E3%83%9B%E3%83%BC%E3%83%B3-%E9%98%B2%E6%B0%B4-%E3%83%90%E3%82%A4%E3%82%AF%E7%94%A8%E3%83%9B%E3%83%BC%E3%83%B3-%E3%83%A9%E3%82%A6%E3%83%89%E8%AD%A6%E5%91%8A-%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9A%E3%83%83%E3%83%88-105dB-12V-DC-1-5A-%E9%87%91%E5%B1%9E-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B07FRZJRJR/ref=redir_mobile_desktop?_encoding=UTF8&psc=1&ref_=ya_aw_od_pi) <- 購入した  
-￥800  
-![](https://images-na.ssl-images-amazon.com/images/I/61QI9IXr-DL._AC_SX679_.jpg)
+
+車用のホーンだといい音するけど、電力食いすぎるから鳴らない。
+ブザー(蜂鸣器)の方が良い
+
+音色を確認できるブザーの販売サイトが少ない。確認できても2khz以上とかの高音のみ
+
+- [発振回路内蔵圧電ブザー リードタイプ 12V[RoHS]](https://eleshop.jp/shop/g/gB6N366/)
+![](https://eleshop.jp/PRODUCTS/CATALOG/PARTS/PHOTO/lfmb26b12.jpg)
+
+￥367  
+●定格電圧：12V  
+●動作電圧：8～16V  
+●消費電流：40mA(max)  
+●共振周波数：400Hz(±100Hz)  
+●音圧：85dBm ＠10cm  
 
 - [电动摩托车蜗牛喇叭通用12V改装超响防水三轮车高低双音鸣笛喇叭](https://detail.tmall.com/item.htm?spm=a230r.1.14.41.4bac2d48L92VJf&id=584907237702&ns=1&abbucket=6&skuId=4125711963245)  
 JPY 320  
 ![](http://img.alicdn.com/imgextra/i3/2068427238/O1CN01k82nzz23L3EkDAG5e_!!2068427238.jpg)  
+
 
 
 ### ライト・ウインカー・ホーン〔集中スイッチ〕
@@ -186,7 +243,21 @@ JPY 1083
 ![](https://gd3.alicdn.com/imgextra/i4/755748406/TB26WXeFXOWBuNjy0FiXXXFxVXa_!!755748406.jpg_400x400.jpg)
 
 ### ブレーキランプ回路
-74HC123(モノステーブルマルチバイブレーター)を使うと、ブレーキランプを作れそう。
+74HC123(モノステーブルマルチバイブレーター)を使うと、ブレーキランプを作れそう。  
+
+[	汎用ロジックIC型番の読み方](https://www.marutsu.co.jp/contents/shop/marutsu/mame/168.html)  
+
+[小形アルミニウム電解コンデンサー50V 4.7μF【50PK4.7MEFC】](https://www.marutsu.co.jp/pc/i/132155/)  
+[トリマポテンショメータ 1回転型サーメットトリマ 100kΩ 上面調整【CT-6EV-100K-OHM(104)】](https://www.marutsu.co.jp/pc/i/603650/)  
+[IC MULTIVIBRATR DUAL MONO 16SOIC【74HC123D】](https://www.marutsu.co.jp/pc/i/26979460/)  
+[フォトカプラ【TLP523(F)】](https://www.marutsu.co.jp/pc/i/40518/)  
+
+4.7uF × 82kΩ = 0.3854s 約0.4秒  
+
+[TC74HC123AP/AF データシート](https://www.marutsu.co.jp/contents/shop/marutsu/datasheet/0000000200305339.pdf)  
+[74HC123D datasheet](https://www.mouser.jp/datasheet/2/408/74HC123D_datasheet_en_20170303-981036.pdf)  
+
+![](http://www.onlyme.sakura.ne.jp/step_write2.jpg)
 
 [NaPiOnでインテリジェントLED...page.1/3](https://www.zea.jp/audio/iled/iled_01.htm)  
 >74HC123はリトリガ可能なモノステーブルマルチバイブレーターですから時定数の時間内にトリガ入力があると、その時点から再度時定数だけQ出力がHレベルになります。即ち、LEDがタイマー点灯していてもNaPiOnの周囲で人が動いてパルスが出ている間はリトリガが掛かりLEDは点灯し続けます。
